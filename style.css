@@ -4,33 +4,33 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
-  }
-  
-  main {
+}
+
+main {
     max-width: 800px;
     margin: 50px auto;
-    background-color: #ffffff;
+    background-color: #543301;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-  }
-  
-  h1 {
+}
+
+h1 {
     text-align: center;
     color: #2c3e50;
-  }
-  
-  ol {
+}
+
+ol {
     padding-left: 20px;
-  }
-  
-  li {
+}
+
+li {
     margin-bottom: 15px;
-  }
-  
-  code {
+}
+
+code {
     background-color: #eef;
     padding: 2px 6px;
     border-radius: 4px;
     font-family: monospace;
-  }
+}
